@@ -1,22 +1,18 @@
-# Snake Game in C++
+# C++ Programs
 
-This is a classic **Snake Game** built in C++ using the console. The game features the snake moving around the screen, eating fruits, and growing longer. The game ends when the snake collides with its own tail.
+This folder contains various **C++ programs** that demonstrate different concepts and implementations using the C++ programming language.
 
-## Features
+## Overview
 
-- **Gameplay**: The snake moves around the board, collects fruits, and grows longer with each fruit eaten.
-- **Controls**: Use **W**, **A**, **S**, **D** to control the direction of the snake (Up, Left, Down, Right).
-- **Dynamic Difficulty**: The more fruits you collect, the longer the snake becomes, making the game more challenging.
-- **Game Over**: The game ends when the snake collides with its own tail.
-- **Score**: Each fruit eaten gives you points, and your score is displayed at the bottom of the game board.
+The programs in this folder showcase a variety of topics, including but not limited to:
+- Data structures (e.g., arrays, linked lists, trees)
+- Algorithms (e.g., sorting, searching)
+- Object-Oriented Programming (OOP) concepts
+- Game development (e.g., Snake Game)
 
-## Setup
+## How to Run
 
-To run the Snake Game, follow these steps:
-
-### Prerequisites
-
-- A C++ compiler like **Visual Studios, g++** or **Microsoft Visual C++**.
-- **Windows** operating system (due to usage of `conio.h` for handling input).
-
-![image](https://github.com/user-attachments/assets/313b6bcd-2af2-4a4e-84d9-47309de2cb27)
+To run any of the programs:
+1. Clone or download this repository.
+2. Compile the C++ file using a C++ compiler (e.g., `g++` or Microsoft Visual C++).
+3. Run the compiled program.
