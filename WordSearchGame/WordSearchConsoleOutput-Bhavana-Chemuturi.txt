@@ -1,0 +1,80 @@
+Enter the name and location of the word search file to read:
+notafile.txt
+The file: notafile.txt was not found. Please try again. Or type quit to exit.
+Enter the name and location of the word search file to read:
+error text
+The file: error text was not found. Please try again. Or type quit to exit.
+Enter the name and location of the word search file to read:
+C:\Users\chemu\Downloads\ComedyMovies-Final.txt
+Success. File opening.
+
+S C F R B O B R O B E R T S L O K L
+T N L E S R E K C I L S Y T I C R L
+A O E P O B L R U A E C H B U D E A
+R I T O T H E Y O M T O L B A T P H
+L T C M W R G I F M L B E E I B E E
+L C H A I B A O N I L L A U R G E I
+A E K N L U L D D G C I S L H K L N
+M L C T I L L A I N T A G O L H S N
+A E U D A L Y C U N Z H S Y L O S A
+C R R U R D B H S A G T E O P L U S
+L O T C L U L H L L B P C R A P L A
+U M S K I R O P O U L A L P E A A K
+E H N S A H N N S T L A S A C C E H
+L S O O R A D T E H S H B K C R O A
+E U O U F M E M E C O H E T H E E R
+S R M P A R T R B T A R O S A A S V
+S L E I S T O O T H E R U T L E S E
+N A T T A H N A M S E Y S L S S M Y
+
+
+Found ALL OF ME at row 9 and col 5 heading Northeast.
+Found ANNIE HALL at row 9 and col 18 heading North.
+Found BABE at row 3 and col 14 heading Southeast.
+Found BEING THERE at row 3 and col 6 heading Southeast.
+Found BIG at row 4 and col 14 heading Southeast.
+Found BOB ROBERTS at row 1 and col 5 heading East.
+Found BULL DURHAM at row 6 and col 6 heading South.
+Found CARS at row 15 and col 10 heading Southeast.
+Found CATBALLOU at row 2 and col 9 heading Southeast.
+Found CITYSLICKERS at row 2 and col 16 heading West
+Found CLERKS at row 3 and col 12 heading Southeast.
+Found CLUELESS at row 10 and col 1 heading South.
+Found DUCK SOUP at row 9 and col 4 heading South.
+Found ELECTION at row 9 and col 2 heading North.
+Found FLETCH at row 1 and col 3 heading South.
+Found GHOSTBUSTERS at row 6 and col 16 heading Southwest.
+Found HAPPY GILMORE at row 13 and col 18 heading Northwest.
+Found HARVEY at row 13 and col 18 heading South.
+Found HOLIDAY at row 3 and col 13 heading Southwest.
+Found HOTSHOTS at row 11 and col 8 heading Southeast.
+Found LEGALLY BLONDE at row 3 and col 7 heading South.
+Found Liar Liar at row 7 and col 5 heading South.
+Found LOCAL HERO at row 9 and col 15 heading Southwest.
+Found MALLRATS at row 8 and col 1 heading North.
+Found MANHATTAN at row 18 and col 9 heading West
+Found MEATBALLS at row 18 and col 17 heading Northwest.
+Found MOONSTRUCK at row 16 and col 3 heading North.
+Found OH GOD at row 3 and col 5 heading Southeast.
+Found PLAZA SUITE at row 12 and col 8 heading Northeast.
+Found Repo Man at row 1 and col 4 heading South.
+Found RUSHMORE at row 16 and col 2 heading North.
+Found SHREK at row 16 and col 14 heading Northeast.
+Found SLACKER at row 10 and col 18 heading Southwest.
+Found SLAP SHOT at row 9 and col 17 heading Southwest.
+Found SLEEPER at row 8 and col 17 heading North.
+Found THE RUTLES at row 17 and col 9 heading East.
+Found TOOTSIE at row 17 and col 9 heading West
+Found TRADING PLACES at row 4 and col 5 heading Southeast.
+Found UNCLE BUCK at row 9 and col 9 heading Northeast.
+Found YES MAN at row 18 and col 12 heading West
+Found RUR at row 10 and col 3 heading East.
+
+
+Could not find NAPOLEAN DYNAMITE
+Could not find RAISING ARIZONA
+Could not find THE BELL BOY
+Could not find Zzzzz
+
+Process returned 0 (0x0)   execution time : 11.203 s
+Press any key to continue.
